@@ -1,6 +1,6 @@
 ### Hello, welcome! 👋
 
-- 🔭 I’m currently working on a top down shooter game.
+- 🔭 I’m currently working on a top down shooter framework created in Godot.
 - 🌱 I’m currently learning GDScript.
 - 👯 I’m looking to collaborate on a small game design project.
 
