@@ -1,8 +1,9 @@
 ### Hello, welcome! 👋
 
-- 🔭 I’m currently working on a top down shooter template created in Godot.
+- 🔭 I’m currently working on a metroidvania created in Godot.
 - 🌱 I’m currently learning GDScript.
 - 👯 I’m looking to collaborate on any small game project. Let me know if you need any help!
+- 💬 Ask me about how to progress on your game development. The hardest part is starting and I have learned a ton on how to keep motavated.
 
 I am a software engineer who graduated from the University of Texas at El Paso.
 
